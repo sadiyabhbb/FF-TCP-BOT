@@ -475,12 +475,12 @@ async def MaiiiinE():
     await asyncio.sleep(1)
     task2 = asyncio.create_task(TcPOnLine(OnLineiP , OnLineporT , key , iv , AutHToKen))
     os.system('clear')
-    print(render('ALAMIN', colors=['white', 'green'], align='center'))
+    print(render('T. LIKHON', colors=['white', 'green'], align='center'))
     print('')
     #print(' - ReGioN => {region}'.format(region))
     print(f" - BoT STarTinG And OnLine on TarGet : {TarGeT} | BOT NAME : {acc_name}\n")
     print(f" - BoT sTaTus > GooD | OnLinE ! (:")    
-    print(f" - Subscribe > Spideerio | Gaming ! (:")    
+    print(f" - FolloW > likhonahmed009 ! (:")    
     await asyncio.gather(task1 , task2)
     
 async def StarTinG():
