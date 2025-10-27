@@ -421,7 +421,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                         if inPuTMsG in ("hi" , "hello" , "fen" , "salam"):
                             uid = response.Data.uid
                             chat_id = response.Data.Chat_ID
-                            message = 'Hello, CREATE\nBY : @ALAMIN BHI'
+                            message = 'HEY THIS BOT MODIFIED\nBY : @LIKHON AHMED'
                             P = await SEndMsG(response.Data.chat_type , message , uid , chat_id , key , iv)
                             await SEndPacKeT(whisper_writer , online_writer , 'ChaT' , P)
                         response = None
