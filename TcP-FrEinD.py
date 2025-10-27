@@ -475,7 +475,7 @@ async def MaiiiinE():
     await asyncio.sleep(1)
     task2 = asyncio.create_task(TcPOnLine(OnLineiP , OnLineporT , key , iv , AutHToKen))
     os.system('clear')
-    print(render('T. LIKHON', colors=['white', 'green'], align='center'))
+    print(render('T.\n LIKHON', colors=['white', 'green'], align='center'))
     print('')
     #print(' - ReGioN => {region}'.format(region))
     print(f" - BoT STarTinG And OnLine on TarGet : {TarGeT} | BOT NAME : {acc_name}\n")
