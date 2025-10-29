@@ -7,3 +7,4 @@ aiohttp
 protobuf
 cfonts
 protobuf-decoder
+pycryptodome
