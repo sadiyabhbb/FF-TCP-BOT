@@ -1,2 +1,9 @@
-
-
+requests
+psutil
+PyJWT
+urllib3
+pytz
+aiohttp
+protobuf
+cfonts
+protobuf-decoder
